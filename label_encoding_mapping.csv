@@ -1,0 +1,9 @@
+Feature,Category,Label
+sex,female,0
+sex,male,1
+smoker,no,0
+smoker,yes,1
+region,northeast,0
+region,northwest,1
+region,southeast,2
+region,southwest,3
